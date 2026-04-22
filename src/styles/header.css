@@ -1,4 +1,4 @@
-header {
+#header {
     width: 100%;
     padding: 28px 8%;
     position: sticky;
@@ -76,4 +76,10 @@ header {
         list-style: none;
         text-align: center;
     } 
+
+    #cta {
+        font-size: 8px;
+        letter-spacing: 1px;
+    }
+
 }

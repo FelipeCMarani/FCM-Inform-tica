@@ -95,8 +95,13 @@
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
     #phone_button button {
         display: none;
+    }
+
+    #cta .title {
+        font-size: 2rem;
+
     }
 }
